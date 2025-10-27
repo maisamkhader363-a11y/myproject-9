@@ -13,4 +13,4 @@ int main()
 
 	cout << "      *              *                          " << endl;
 	cout << "          *   *  *                        " << endl;
-]
+}
