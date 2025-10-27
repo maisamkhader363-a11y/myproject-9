@@ -1,2 +1,16 @@
-# myproject-9
-this is test repo
+#include<iostream>
+using namespace std;
+int main()
+{
+	cout << "         *   *  *                   " << endl;
+	cout << "     *               *                           " << endl << endl;
+
+	cout << "  *                     *                               " << endl << endl;
+
+	cout << " *                       *                               " << endl << endl;
+
+	cout << "   *                    *                            " << endl << endl;
+
+	cout << "      *              *                          " << endl;
+	cout << "          *   *  *                        " << endl;
+]
